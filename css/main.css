@@ -156,6 +156,11 @@ width: 40px;
 .w-sp{
     width: 1495px;
     margin: auto;
+    background-color: #F2F2F2;
+}
+.w-spe{
+    width: 1495px;
+    background-color: #F2F2F2;
 }
 .w-318{
     width: 324px;
@@ -219,4 +224,7 @@ width: 40px;
 }
 .font-11{
     font-size: 11px;
+}
+.ms-50px{
+    margin-left:70px;
 }
