@@ -1,0 +1,1 @@
+'use strict';$(document).ready(function(){if(null!=window.msauth&&"aad"==window.msauth.Type.toLowerCase()){const a=$("#BannerMsg").html().replace("{0}",window.msauth.DisplayName);$("#BannerMsg").html(a);$("#VsbAlertMainFrame").removeClass("d-none")}});

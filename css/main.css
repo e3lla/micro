@@ -30,15 +30,15 @@
 .navbar-nav li a:hover{
     text-decoration: underline;
 }
-.m-logo{
+/* .m-logo{
     width: 12%;
   
-}
+} */
 .size-text{
-    font-size: 13px;
     color: #262626;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 400;
+    
 }
 .h-40{
     height: 40px;
@@ -62,4 +62,161 @@ background-color: #9BF00B;
     line-height: 58px;
     text-align: center;
     text-decoration: none;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+.color-spe{
+    color: #262626 !important;
+    font-weight: bold;
+
+}
+div.greenlink>a:hover{
+text-decoration:underline;
+
+}
+.mr-10{
+
+    margin-right: 10px;
+}
+.first:hover{
+text-decoration: underline;
+
+
+}
+.h-525{
+height: 525px;
+
+}
+.h-150{
+width: 630px;
+height:343px;
+margin-right: 70px;
+}
+.margin-left{
+margin-left: -120px;
+
+}
+.margin-top1{
+margin-bottom:30px;
+color: #000000;
+
+
+
+}
+span.spe{
+ color: #000000;
+margin-bottom: 50px;
+
+
+}
+.w-110{
+    width: 110px;
+}
+.font-13{
+    font-size: 13px !important;
+}
+.w-1382{
+    width: 1282px !important;
+}
+.w-1346{
+    width: 1500px;
+}
+
+
+.h-141{
+    height: 141px ;
+
+}
+.w-192{
+
+    width: 200px;
+    height: 100px;
+}
+.w-210{
+
+    width: 230px;
+    height: 100px;
+}
+.w-40{
+width: 40px;
+
+}
+.h-215{
+
+    height: 215px;
+}
+
+.me-6{
+    margin-right: 160px;
+}
+.w-256{
+    width: 25.6px;
+    height: 25.6px;
+}
+.w-sp{
+    width: 1495px;
+    margin: auto;
+}
+.w-318{
+    width: 324px;
+    height: 240px;
+}
+.w-1374{
+    width: 1374px;
+    height: 512px;
+}
+.m-6{
+    margin: 77px;
+}
+.w-334{
+    width: 366px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.w-356{
+    width: 356px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.ml-50px{
+    margin-left: 50px;
+    width: 220px;
+    margin-top: 20px;
+
+}
+.me-50px{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.mt-7{
+    margin-top: 140px;
+}
+.jj{
+    margin-top: 160px;
+}
+
+.kjj{
+    margin-top: 80px;
+}
+.w-441{
+    width: 441px;
+    height: 240px;
+}
+.w-1368{
+    width: 1368px;
+    height: 516px;
+}
+.me-px{
+    margin-right: 50px;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.mt-ppp{
+    margin-top: 80px;
+
+}
+.font-11{
+    font-size: 11px;
 }

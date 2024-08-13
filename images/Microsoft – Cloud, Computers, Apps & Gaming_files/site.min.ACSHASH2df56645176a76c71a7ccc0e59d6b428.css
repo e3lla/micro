@@ -1,0 +1,4 @@
+.frame{display:flex;flex-direction:row;align-items:center;padding:10px 70px;gap:10px;font-family:'Segoe UI';font-style:normal;font-weight:400;font-size:18px;line-height:22px;color:#fff;background:#463668;justify-content:center}
+#BannerMsg a:link{color:#fff}
+#BannerMsg a:visited{color:#fff}
+#BannerMsg a:hover{color:#fff}
